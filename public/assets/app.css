@@ -17,6 +17,7 @@ body, html{
     font-family: 'Helvetica Neue', sans-serif;
     background: var(--main-background-color)!important;
     color: var(--white-color)!important;
+    overflow: hidden;
 }
 .otilo-center-container{
     display: flex;
