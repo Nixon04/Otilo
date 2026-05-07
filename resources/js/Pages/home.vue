@@ -11,7 +11,7 @@
             </div>
 
             <div>
-                <span class="fs-1">Coming Soon</span>
+                <span class="fs-1">Coming Soon.</span>
             </div>
 
             <div class="otilo-absolute-right">
